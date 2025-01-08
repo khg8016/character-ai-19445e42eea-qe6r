@@ -1,0 +1,1 @@
+// 이 파일은 제거하고 storage/index.ts를 사용
